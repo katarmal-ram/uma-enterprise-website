@@ -1,0 +1,556 @@
+{
+  "site": {
+    "logo": "https://vbjbybczjtauhyydlcya.supabase.co/storage/v1/object/public/logos//fav%20img.png",
+    "title": "Om Extrusion",
+    "description": "Professional Manufacturing services by Om Extrusion"
+  },
+  "theme": {
+    "id": "creative",
+    "hero": {
+      "layout": "split",
+      "textAlignment": "left",
+      "backgroundStyle": "gradient"
+    },
+    "name": "Creative",
+    "colors": {
+      "text": "#1f2937",
+      "accent": "#06b6d4",
+      "primary": "#8b5cf6",
+      "secondary": "#7c3aed",
+      "background": "#f9fafb"
+    },
+    "effects": {
+      "shadows": true,
+      "gradients": true,
+      "animations": true
+    },
+    "spacing": {
+      "content": "wide",
+      "section": "spacious"
+    },
+    "navigation": {
+      "style": "solid",
+      "position": "fixed",
+      "background": "#1f2937"
+    },
+    "typography": {
+      "scale": "large",
+      "bodyFont": "Inter",
+      "headingFont": "Inter"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "link": "#hero",
+        "text": "Home"
+      },
+      {
+        "link": "#services",
+        "text": "Services"
+      },
+      {
+        "link": "#products",
+        "text": "Products"
+      },
+      {
+        "link": "#contact",
+        "text": "Contact"
+      },
+      {
+        "link": "#request-quote",
+        "text": "Request Quote"
+      }
+    ]
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "headline": "Welcome to Om Extrusion  Manufacturer of Aluminum Profiles",
+      "primaryCTA": {
+        "link": "#request-quote",
+        "text": "Get Quote"
+      },
+      "subheadline": "Delivering Precision and Innovation in Aluminum Extrusion",
+      "secondaryCTA": {
+        "link": "#services",
+        "text": "Our Services"
+      },
+      "backgroundImage": "https://c8.alamy.com/comp/FGNBH1/aluminum-extrusion-manufacturing-line-FGNBH1.jpg"
+    },
+    "about": {
+      "stats": [
+        {
+          "label": "Years Experience",
+          "number": "90+"
+        },
+        {
+          "label": "Projects Completed",
+          "number": "600+"
+        },
+        {
+          "label": "Success Rate",
+          "number": "99.9%"
+        },
+        {
+          "label": "Support",
+          "number": "24/7"
+        }
+      ],
+      "title": "About Om Extrusion",
+      "enabled": true,
+      "description": "Om Extrusion is a distinguished manufacturer specializing in high-quality aluminum extrusion profiles. With a focus on precision and innovation, we cater to diverse industries such as construction, electrical, automotive, and industrial applications. Our commitment to excellence, quality assurance, and timely delivery positions us as a trusted partner in the global aluminum extrusion market."
+    },
+    "features": {
+      "items": [
+        {
+          "icon": "check",
+          "title": "Quality Assurance",
+          "description": "We adhere to rigorous quality standards ensuring that every product meets precise specifications and customer expectations."
+        },
+        {
+          "icon": "clock",
+          "title": "Timely Delivery",
+          "description": "Our efficient production processes and logistics guarantee that your orders are delivered on time, every time."
+        },
+        {
+          "icon": "shield",
+          "title": "Professional Standards",
+          "description": "We operate with high professional standards, ensuring that our manufacturing practices align with industry best practices."
+        },
+        {
+          "icon": "users",
+          "title": "Expert Team",
+          "description": "Our skilled workforce is dedicated to delivering innovative solutions and exceptional customer service."
+        }
+      ],
+      "title": "Why Choose Om Extrusion",
+      "enabled": true
+    },
+    "services": {
+      "items": [
+        {
+          "image": "https://c8.alamy.com/comp/FGNBH1/aluminum-extrusion-manufacturing-line-FGNBH1.jpg",
+          "title": "Aluminum Profile Extrusion",
+          "features": [
+            "Wide range of profile shapes (solid, hollow, complex)",
+            "High dimensional accuracy",
+            "Custom dies for OEM requirements",
+            "Alloy options (6061, 6063, etc.)"
+          ],
+          "description": "At Om Extrusion, we specialize in the manufacturing of both custom and standard aluminum profiles utilizing advanced extrusion processes tailored for various industrial and commercial applications."
+        },
+        {
+          "image": "https://source.unsplash.com/featured/?finishing,coating",
+          "title": "Surface Finishing & Coating",
+          "features": [
+            "Durable and aesthetic finishes",
+            "Wide color options for powder coating",
+            "Matt, glossy, or brushed textures"
+          ],
+          "description": "We offer comprehensive post-extrusion finishing services, including anodizing, powder coating, polishing, and brushing to enhance both the aesthetic appeal and corrosion resistance of our aluminum profiles."
+        }
+      ],
+      "title": "Our Services",
+      "enabled": true
+    },
+    "products": {
+      "title": "Our Products",
+      "enabled": true,
+      "subtitle": "Quality products for your needs",
+      "categories": [
+        {
+          "name": "Architectural Profiles",
+          "description": "Aluminum sections designed for use in windows, doors, partitions, curtain walls, glazing, and other architectural systems, emphasizing both aesthetic appeal and structural integrity.",
+          "productCount": 3
+        },
+        {
+          "name": "Electrical & Electronics Profiles",
+          "description": "Precision extrusions specifically designed for electrical enclosures, busbars, heat sinks, and electronic chassis, ensuring optimal thermal efficiency and electrical conductivity.",
+          "productCount": 6
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Om Extrusion",
+      "points": [
+        {
+          "image": "https://source.unsplash.com/featured/?expertise,manufacturing",
+          "title": "Industry Expertise",
+          "description": "Specific expertise in Manufacturing"
+        },
+        {
+          "image": "https://source.unsplash.com/featured/?success,results",
+          "title": "Proven Results",
+          "description": "Track record of success and customer satisfaction"
+        }
+      ],
+      "enabled": true,
+      "subtitle": "The advantages of working with us"
+    },
+    "gallery": {
+      "title": "Our Work Gallery",
+      "images": [
+        {
+          "alt": "Process",
+          "url": "https://tsvtgoljjzctgdbvvojm.supabase.co/storage/v1/object/public/gallery-images/32d2e0aa-6e65-47a3-9f3c-172026678ef5/8e4e1bdb-6b54-4aa7-a9f1-7de5ad8ab887/1748184583349.jpeg",
+          "caption": "Our process"
+        }
+      ],
+      "enabled": true
+    },
+    "certifications": {
+      "items": [
+        {
+          "name": "ISO 9001:2015",
+          "image": "https://source.unsplash.com/featured/?ISO9001",
+          "description": "Achieved in 2019, this certification underscores our commitment to quality management and has been recognized with multiple awards."
+        },
+        {
+          "name": "Six Sigma",
+          "image": "https://source.unsplash.com/featured/?SixSigma",
+          "description": "We have successfully implemented Six Sigma manufacturing techniques across our plant to enhance efficiency and reduce defects."
+        }
+      ],
+      "title": "Certifications & Standards",
+      "enabled": true
+    },
+    "testimonials": {
+      "items": [
+        {
+          "text": "Om Extrusion has consistently provided us with high-quality products and exceptional service.",
+          "author": "John Doe",
+          "avatar": "https://source.unsplash.com/featured/?avatar",
+          "company": "XYZ Industries",
+          "position": "Director of Operations"
+        }
+      ],
+      "title": "What Our Clients Say",
+      "enabled": true
+    },
+    "quote": {
+      "title": "Request a Quote",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "label": "Full Name",
+          "required": true
+        },
+        {
+          "name": "email",
+          "type": "email",
+          "label": "Email Address",
+          "required": true
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Company",
+          "required": false
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Phone Number",
+          "required": false
+        },
+        {
+          "name": "service",
+          "type": "select",
+          "label": "Service Required",
+          "options": [
+            "Aluminum Profile Extrusion",
+            "Surface Finishing & Coating",
+            "Other"
+          ],
+          "required": true
+        },
+        {
+          "name": "description",
+          "type": "textarea",
+          "label": "Project Description",
+          "required": true
+        }
+      ],
+      "enabled": true,
+      "subtitle": "Get started with your project today",
+      "submitUrl": "/api/send-enquiry"
+    },
+    "contact": {
+      "email": "ramkatarmal5@gmail.com",
+      "hours": {
+        "weekend": "Saturday: 8:00 AM - 2:00 PM",
+        "weekdays": "Monday - Friday: 8:00 AM - 6:00 PM"
+      },
+      "phone": "+91 9016578784",
+      "title": "Get In Touch",
+      "address": {
+        "zip": "360001",
+        "city": "Rajkot",
+        "state": "Gujarat",
+        "street": "Rajkot, Gujarat",
+        "country": "India"
+      },
+      "enabled": true,
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.2623!2d-118.2437!3d34.0522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDAzJzA4LjAiTiAxMTjCsDE0JzM3LjAiVw!5e0!3m2!1sen!2sus!4v1234567890",
+      "whatsapp": "+91 9016578784"
+    }
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2024 Om Extrusion. All rights reserved.",
+    "quickLinks": [
+      {
+        "url": "#services",
+        "text": "Services"
+      },
+      {
+        "url": "#products",
+        "text": "Products"
+      },
+      {
+        "url": "#contact",
+        "text": "Contact"
+      },
+      {
+        "url": "#request-quote",
+        "text": "Request Quote"
+      }
+    ],
+    "socialLinks": [
+      {
+        "url": "https://linkedin.com/company/omextrusion",
+        "icon": "linkedin",
+        "platform": "LinkedIn"
+      },
+      {
+        "url": "https://facebook.com/omextrusion",
+        "icon": "facebook",
+        "platform": "Facebook"
+      }
+    ]
+  },
+  "sectionsOrder": [
+    {
+      "id": "infrastructure-1748184999589",
+      "data": {
+        "items": [
+          {
+            "image": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=400&h=300&fit=crop",
+            "title": "Manufacturing Facility",
+            "features": [
+              "ISO Certified",
+              "Climate Controlled",
+              "24/7 Operations"
+            ],
+            "description": "50,000 sq ft of modern manufacturing space"
+          }
+        ],
+        "title": "Our Infrastructure",
+        "enabled": true,
+        "subtitle": "State-of-the-art facilities and capabilities"
+      },
+      "type": "infrastructure",
+      "title": "Our Infrastructure",
+      "enabled": true
+    },
+    {
+      "id": "csr-1748185022924",
+      "data": {
+        "title": "Corporate Social Responsibility",
+        "enabled": true,
+        "subtitle": "Our commitment to society and environment",
+        "initiatives": [
+          {
+            "icon": "🌱",
+            "title": "Environmental Sustainability",
+            "impact": "50% reduction in waste",
+            "description": "Reducing our carbon footprint through green practices"
+          }
+        ]
+      },
+      "type": "csr",
+      "title": "CSR",
+      "enabled": true
+    },
+    {
+      "id": "leadership-1748185063457",
+      "data": {
+        "title": "Our Leadership Team",
+        "enabled": true,
+        "members": [
+          {
+            "bio": "20+ years of industry experience",
+            "name": "John Doe",
+            "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face",
+            "linkedin": "#",
+            "position": "Chief Executive Officer"
+          }
+        ],
+        "subtitle": "Meet the people driving our success"
+      },
+      "type": "leadership",
+      "title": "Leadership Team",
+      "enabled": true
+    },
+    {
+      "id": "awards-1748185082831",
+      "data": {
+        "title": "Awards & Recognition",
+        "awards": [
+          {
+            "year": "2024",
+            "title": "Industry Excellence Award",
+            "description": "Recognized for outstanding performance and innovation",
+            "organization": "Industry Association"
+          }
+        ],
+        "enabled": true,
+        "subtitle": "Celebrating our achievements and milestones"
+      },
+      "type": "awards",
+      "title": "Awards & Recognition",
+      "enabled": true
+    },
+    {
+      "id": "process-1748185128951",
+      "data": {
+        "steps": [
+          {
+            "step": 1,
+            "title": "Consultation",
+            "description": "We start by understanding your requirements"
+          },
+          {
+            "step": 2,
+            "title": "Planning",
+            "description": "Detailed planning and strategy development"
+          },
+          {
+            "step": 3,
+            "title": "Execution",
+            "description": "Flawless execution of the planned strategy"
+          }
+        ],
+        "title": "Our Process",
+        "enabled": true,
+        "subtitle": "How we deliver exceptional results"
+      },
+      "type": "process",
+      "title": "Our Process",
+      "enabled": true
+    },
+    {
+      "id": "technology-1748185145523",
+      "data": {
+        "title": "Technology Stack",
+        "enabled": true,
+        "subtitle": "Cutting-edge technologies we use",
+        "technologies": [
+          {
+            "icon": "⚙️",
+            "name": "Advanced Machinery",
+            "category": "Hardware",
+            "description": "State-of-the-art equipment for precision work"
+          }
+        ]
+      },
+      "type": "technology",
+      "title": "Technology Stack",
+      "enabled": true
+    },
+    {
+      "id": "quality-1748185159738",
+      "data": {
+        "title": "Quality Assurance",
+        "enabled": true,
+        "subtitle": "Our commitment to excellence",
+        "processes": [
+          {
+            "title": "Quality Control",
+            "description": "Rigorous testing at every stage"
+          }
+        ],
+        "certifications": [
+          {
+            "name": "ISO 9001:2015",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=150&h=150&fit=crop",
+            "description": "Quality Management System"
+          }
+        ]
+      },
+      "type": "quality",
+      "title": "Quality Assurance",
+      "enabled": true
+    },
+    {
+      "id": "environment-1748185165110",
+      "data": {
+        "title": "Environmental Commitment",
+        "enabled": true,
+        "subtitle": "Building a sustainable future",
+        "commitments": [
+          {
+            "icon": "🌍",
+            "title": "Carbon Neutral Operations",
+            "progress": 75,
+            "description": "Committed to achieving carbon neutrality by 2030"
+          }
+        ]
+      },
+      "type": "environment",
+      "title": "Environmental Commitment",
+      "enabled": true
+    },
+    {
+      "id": "faq-1748185180566",
+      "data": {
+        "title": "Frequently Asked Questions",
+        "enabled": true,
+        "subtitle": "Find answers to common questions",
+        "questions": [
+          {
+            "answer": "We offer a comprehensive range of services tailored to meet your needs.",
+            "question": "What services do you offer?"
+          }
+        ]
+      },
+      "type": "faq",
+      "title": "FAQ",
+      "enabled": true
+    },
+    {
+      "id": "news-1748185190360",
+      "data": {
+        "title": "Latest News & Updates",
+        "enabled": false,
+        "articles": [],
+        "subtitle": "Stay updated with our latest developments"
+      },
+      "type": "news",
+      "title": "News & Updates",
+      "enabled": true
+    },
+    {
+      "id": "download-catalog-1748186217142",
+      "data": {
+        "title": "Download Our Catalogs",
+        "enabled": true,
+        "catalogs": [
+          {
+            "name": "Product Catalog 2024",
+            "fileUrl": "https://example.com/catalog.pdf",
+            "fileSize": "2.5 MB",
+            "fileType": "PDF",
+            "description": "Complete product catalog with specifications and pricing"
+          }
+        ],
+        "subtitle": "Get detailed information about our products and services"
+      },
+      "type": "download-catalog",
+      "title": "Download Catalog",
+      "enabled": true
+    }
+  ]
+}
